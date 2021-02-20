@@ -1,2 +1,2 @@
-# my-game-90-
-my game very fun
+# p5.play-boilerplate
+Boiler plate for p5.play
